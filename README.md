@@ -13,7 +13,7 @@ An AI-powered training system for financial advisors and estate planning attorne
 
 ### Prerequisites
 
-- Node.js 18+ installed
+- Node.js 18+ installed (test)
 - An Anthropic API key (get one at [console.anthropic.com](https://console.anthropic.com))
 
 ### Local Development
